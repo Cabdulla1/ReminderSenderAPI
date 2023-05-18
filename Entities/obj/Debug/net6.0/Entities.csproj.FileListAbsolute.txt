@@ -1,0 +1,15 @@
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Cavidan Abdulla\Desktop\Projects\AspNetCore6Projects\Entities\obj\Debug\net6.0\ref\Entities.dll
